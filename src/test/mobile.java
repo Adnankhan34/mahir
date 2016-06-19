@@ -9,6 +9,7 @@ public class mobile {
 		// TODO Auto-generated method stub
 
 	System.out.println("COmats");
+	System.out.println("COmats");
 	
 	}
 	
